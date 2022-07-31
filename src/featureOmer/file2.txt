@@ -1,0 +1,29 @@
+Step 1: Team Leads Created a Remote Repo for their Team
+		Team leads can create the project Locally first, then create gitignore file for untrack some files, then share project on GitHub, then collaborate with members
+
+
+Step 2: Team Leads are going to add team members to their project from GitHub
+	Project Repo---> Settings ---> Collaborators--> AddPeople
+
+Step 3: Team members accept the invitation
+
+Step 4: Team Leads clone the project to their local computer
+
+Step 5: Team Leads have to create SRC Directory, and featureA package, create a Java Test File then push changes (No needed if you create a JAVA project locally)
+
+Step 6: Team members clone the project from GitHub
+
+Step 7: Team Leads and members create new branch from master and check out, branch name is the member name
+
+Step 8: Create a new package with your name at your branch, and a Test Java File
+
+****************************************************
+At your real work environment
+	*** THEY WON'T let you to work and effect the master/main.
+	** You work at your own branch--then create pull request to add your changes to the project
+****************************************************
+STEP 9: MOST Important Step MERGING
+	- Every member create a merge request (Create Pull Request)	  Master will PULL changes in your own branch
+
+STEP 10: Your project updated with AWESOME additions from your team mates, everybody happy, merged
+Come next day to your job; checkout your Local Master branch so that you can get all the updates that your team accomplished
