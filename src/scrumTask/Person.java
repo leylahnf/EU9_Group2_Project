@@ -1,6 +1,6 @@
 package scrumTask;
 
-public class A {
+public class Person {
     private String name;
     private char gender;
     private int age;
@@ -53,7 +53,7 @@ public class A {
 }
 
 /*
-A) Class Person
+Person) Class Person
     name, gender,age
     eat(), drink()
- */}
+ */
