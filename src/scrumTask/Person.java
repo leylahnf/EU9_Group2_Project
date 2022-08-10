@@ -53,7 +53,7 @@ public class Person {
 }
 
 /*
-Person) Class Person
+Person) ClassPerson
     name, gender,age
     eat(), drink()
  */
