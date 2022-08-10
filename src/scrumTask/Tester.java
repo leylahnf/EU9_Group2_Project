@@ -1,6 +1,7 @@
 package scrumTask;
 
 public class Tester extends Employee {
+    //added comment again
     private String jobDefinition;
 
     public String toString() {
